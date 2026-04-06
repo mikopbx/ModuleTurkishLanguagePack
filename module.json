@@ -1,0 +1,21 @@
+{
+  "developer":"MIKO",
+  "moduleUniqueID":"ModuleTurkishLanguagePack",
+  "support_email": "help@miko.ru",
+  "version": "%ModuleVersion%",
+  "min_pbx_version": "2025.1.1",
+  "module_type": "languagepack",
+  "language_code": "tr-tr",
+  "translation_sync": {
+    "enabled": true,
+    "source_repo": "mikopbx/Core",
+    "source_branch": "develop",
+    "language_code": "tr",
+    "exclude_files": ["ModuleTurkishLanguagePack.php"]
+  },
+  "release_settings": {
+    "publish_release": true,
+    "changelog_enabled": true,
+    "create_github_release": true
+  }
+}
