@@ -3,6 +3,6 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleTurkishLanguagePack' => 'Turkish Language Pack',
+    'BreadcrumbModuleTurkishLanguagePack' => 'Language Pack - Turkish',
     'SubHeaderModuleTurkishLanguagePack' => 'Complete Turkish language support for MikoPBX',
 ];
