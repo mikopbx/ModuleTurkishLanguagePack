@@ -2,30 +2,63 @@
 ; Generated using Piper TTS (tr_TR-dfki-medium)
 ; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
 ;
+a-m: A.M.
 activated: Etkinleştirildi.
 added: Eklendi.
 agent-alreadyon: Bu operatör zaten oturum açmış. Lütfen operatör numaranızı girin ve kare tuşuna basın.
 agent-incorrect: Giriş başarısız. Lütfen operatör numaranızı girin ve kare tuşuna basın.
 agent-loggedoff: Operatör oturumu kapatıldı.
+agent-login: Operatör girişi.
 agent-loginok: Operatör oturum açtı.
+agent-logoff: Operatör çıkışı.
 agent-newlocation: Lütfen yeni dahili numaranızı girin ve kare tuşuna basın.
 agent-pass: Lütfen şifrenizi girin ve kare tuşuna basın.
 agent-user: Operatör girişi. Lütfen operatör numaranızı girin ve kare tuşuna basın.
 all-circuits-busy-now: Tüm hatlar şu anda meşgul.
-ascending-2tone:
+areminder-1c-2n: Bir çağrı, iki yeni hatırlatma.
+areminder-cancel: Hatırlatmayı iptal etmek için 1 tuşuna basın.
+areminder-cancelled: Hatırlatma iptal edildi.
+areminder-confirm: Onaylamak için 1, iptal etmek için 2 tuşuna basın.
+areminder-confirmed: Hatırlatma onaylandı.
+areminder-for: Hatırlatma şu kişi için.
+areminder-greeting: Merhaba, bu otomatik bir hatırlatma çağrısıdır.
+areminder-greeting2: Merhaba, randevunuzu hatırlatıyoruz.
+areminder-instructions: Onaylamak için 1, iptal etmek için 2, yeniden planlamak için 3 tuşuna basın.
+areminder-reschedule: Randevuyu yeniden planlamak için 3 tuşuna basın.
+areminder-reschedule-callback: Sizi yeniden planlama için arayacağız.
+areminder-summary: Hatırlatma özeti.
+areminder-summary-instructions: Tekrar dinlemek için 1, çıkmak için kare tuşuna basın.
+areminder-summary2: Hatırlatma özetiniz aşağıdadır.
+areminder-transfer: Bir operatöre aktarılıyorsunuz.
+ascending-2tone: 
+astcc-followed-by-pound: Ardından kare tuşuna basın.
 astcc-followed-by-the-pound-key: Kare tuşuna basın.
+at: saat
+at-tone-time-exactly: Sinyal sesinden sonra saat tam olarak şu olacak...
 auth-incorrect: Şifre hatalı. Lütfen şifrenizi girin ve kare tuşuna basın.
 auth-thankyou: Teşekkür ederiz.
-beep:
-beeperr:
+beep: 
+beeperr: 
 call-forwarding: Çağrı yönlendirme.
 call-fwd-no-ans: Cevap verilmediğinde çağrı yönlendirme.
 call-fwd-on-busy: Meşgulken çağrı yönlendirme.
 call-fwd-unconditional: Koşulsuz çağrı yönlendirme.
 call-waiting: Çağrı bekletme.
+calling: Aranıyor.
 cancelled: İptal edildi.
 cannot-complete-as-dialed: Çağrınız aradığınız şekilde tamamlanamıyor.
+cdir-matching-entries-continue: Eşleşen kayıtlar bulundu. Devam etmek için 1 tuşuna basın.
+cdir-matching-entries-or-pound: Eşleşen kayıtlar veya çıkmak için kare tuşuna basın.
+cdir-please-enter-first-three: Lütfen ilk üç harfi girin.
+cdir-sorry-no-entries: Üzgünüm, eşleşen kayıt bulunamadı.
+cdir-there-are: Şunlar var.
+cdir-transferring-further-assistance: Daha fazla yardım için aktarılıyorsunuz.
+cdir-welcome: Şirket rehberine hoş geldiniz.
 check-number-dial-again: Lütfen numarayı kontrol edip tekrar arayın.
+conf-adminmenu: Sesinizi açmak veya kapatmak için 1, konferansı kilitlemek veya kilidini açmak için 2, son kullanıcıyı çıkarmak için 3, konferans ses seviyesini azaltmak veya artırmak için 4 ya da 6, kendi ses seviyenizi azaltmak veya artırmak için 7 ya da 9, çıkmak için 8 tuşuna basın.
+conf-adminmenu-162: Sesinizi açmak veya kapatmak için 1, konferansı kilitlemek veya kilidini açmak için 2, son kullanıcıyı çıkarmak için 3, konferans ses seviyesini azaltmak veya artırmak için 4 ya da 6, konferansı uzatmak için 5, kendi ses seviyenizi azaltmak veya artırmak için 7 ya da 9, çıkmak için 8 tuşuna basın.
+conf-adminmenu-18: Sesinizi açmak veya kapatmak için 1, konferansı kilitlemek veya kilidini açmak için 2, son kullanıcıyı çıkarmak için 3, konferans ses seviyesini azaltmak veya artırmak için 4 ya da 6, konferansı uzatmak için 5, kendi ses seviyenizi azaltmak veya artırmak için 7 ya da 9, daha fazla seçenek için 8 tuşuna basın.
+conf-adminmenu-menu8: Konferanstaki kullanıcıları listelemek için 1, yönetici olmayan tüm kullanıcıları çıkarmak için 2, yönetici olmayan tüm kullanıcıların sesini açmak veya kapatmak için 3, bu konferansı kaydetmek için 4, bu menüden çıkıp konferansa dönmek için 8 tuşuna basın.
 conf-enteringno: Konferans numarasına giriyorsunuz
 conf-errormenu: Geçersiz seçim.
 conf-extended: Konferans uzatıldı.
@@ -77,8 +110,8 @@ confbridge-inc-list-vol-out: ...diğer katılımcılardan gelen ses seviyesini a
 confbridge-inc-talk-vol-in: Diğer katılımcılara ileten konuşma ses seviyenizi artırmak için...
 confbridge-inc-talk-vol-out: ...diğer katılımcılara ileten konuşma ses seviyenizi artırmak için.
 confbridge-invalid: Geçersiz bir seçenek girdiniz.
-confbridge-join:
-confbridge-leave:
+confbridge-join: 
+confbridge-leave: 
 confbridge-leave-in: Konferanstan çıkmak için...
 confbridge-leave-out: ...konferanstan çıkmak için.
 confbridge-lock-extended: ...konferansı kilitlemek veya kilidini açmak için. Konferans kilitliyken yalnızca yöneticiler katılabilir.
@@ -107,7 +140,25 @@ confbridge-rest-talk-vol-out: ...konuşma ses seviyenizi varsayılan değere sı
 confbridge-there-are: Şu anda...
 confbridge-unlocked: Konferansın kilidi açıldı.
 confbridge-unmuted: Sesiniz artık açık.
+dash: tire
 de-activated: Devre dışı bırakıldı.
+demo-echodone: Yankı testi tamamlandı.
+demo-echotest: Yankı testine giriyorsunuz. Bu modda söylediğiniz her şey alındığı anda size geri yansıtılacak. Çıkmak için telefonu kapatın veya kare tuşuna basın.
+descending-2tone: alçalan iki ton
+dictate/both_help: Duraklatma için yıldız, yeni bir dosya adı girmek için kare tuşuna basın.
+dictate/enter_filename: Sayısal bir dikte dosyası adı girin ve kare tuşuna basın veya çıkmak için sadece kare tuşuna basın.
+dictate/forhelp: Yardım için sıfır tuşuna basın.
+dictate/pause: duraklat
+dictate/paused: duraklatıldı
+dictate/play_help: Kayıt moduna geçmek için 1, hızlı oynatmayı açmak veya kapatmak için 2, geriye atlamak için 7, ileriye atlamak için 8 tuşuna basın.
+dictate/playback: oynatma
+dictate/playback_mode: oynatma modu
+dictate/record: kayıt
+dictate/record_help: Oynatma moduna geçmek için 1, dosyayı kısaltıp baştan başlamak için 8 tuşuna basın.
+dictate/record_mode: kayıt modu
+dictate/truncating_audio: Ses kısaltılıyor.
+dictation-being-processed: Diktenizin işlenmesi.
+dictation-sent: Dikte gönderildi.
 digits/0: sıfır
 digits/1: bir
 digits/10: on
@@ -149,6 +200,7 @@ digits/day-3: Çarşamba
 digits/day-4: Perşembe
 digits/day-5: Cuma
 digits/day-6: Cumartesi
+digits/dollar: dolar
 digits/dollars: dolar
 digits/h-1: birinci
 digits/h-10: onuncu
@@ -181,9 +233,11 @@ digits/h-billion: milyarıncı
 digits/h-hundred: yüzüncü
 digits/h-million: milyonuncu
 digits/h-thousand: bininci
+digits/hours: saat
 digits/hundred: yüz
 digits/million: milyon
 digits/minus: eksi
+digits/minutes: dakika
 digits/mon-0: Ocak
 digits/mon-1: Şubat
 digits/mon-10: Kasım
@@ -200,34 +254,203 @@ digits/oclock: saat
 digits/oh: sıfır
 digits/p-m: P.M.
 digits/pound: kare
+digits/seconds: saniye
 digits/star: yıldız
 digits/thousand: bin
 digits/today: bugün
 digits/tomorrow: yarın
 digits/yesterday: dün
+dir-first: aradığınız kişinin adının harfleri.
+dir-firstlast: ...aradığınız kişinin adının veya soyadının harfleri.
+dir-instr: Aradığınız kişi buysa şimdi 1, değilse yıldız tuşuna basın.
+dir-intro: Rehbere hoş geldiniz. Lütfen tuş takımınızı kullanarak aradığınız kişinin soyadının ilk üç harfini girin.
+dir-intro-fn: Rehbere hoş geldiniz. Lütfen tuş takımınızı kullanarak aradığınız kişinin adının ilk üç harfini girin.
+dir-last: ...aradığınız kişinin soyadının harfleri.
+dir-multi1: Basın...
+dir-multi2: ...için...
+dir-multi3: ...dahili numara...
+dir-multi9: Daha fazla kayıt için 9 tuşuna basın.
+dir-nomatch: Aramanızla eşleşen rehber kaydı bulunamadı.
+dir-nomore: Rehberde başka uygun kayıt yok.
+dir-pls-enter: Lütfen ilk...
+dir-usingkeypad: ...tuş takımınızı kullanarak.
+dir-welcome: Rehbere hoş geldiniz.
 disabled: Devre dışı.
 do-not-disturb: Rahatsız etmeyin.
+dollar: dolar
+dollars: dolar
+dot: nokta
 enabled: Etkin.
+enter-filename-short: Dosya adını girin.
 enter-num-blacklist: Lütfen kara listeye eklenecek numarayı girin.
 entr-num-rmv-blklist: Lütfen kara listeden çıkarılacak numarayı girin.
+equals: eşittir
+exclaimation-point: ünlem işareti
+exited-vm-will-be-transfered: Sesli mesajdan çıktınız, aktarılıyorsunuz.
+extension: Dahili numara.
+feature-not-avail-line: Bu özellik bu hatta kullanılamıyor.
+featurecode: özellik kodu
+followme: takip et
+followme/call-from: gelen çağrı
+followme/followme: beni takip et
+followme/no-recording: gelen bir çağrınız var
+followme/options: Bu çağrıyı kabul etmek için 1, reddetmek için 2 tuşuna basın.
+followme/pls-hold-while-try: Lütfen aradığınız kişiyi bulmaya çalışırken hatta kalın.
 followme/sorry: Üzgünüm, aradığınız kişiye ulaşamadım.
+followme/status: Aradığınız kişi masasında değil; sizin için bulmaya çalışacağım.
+for: için
+from-unknown-caller: Bilinmeyen bir arayandan.
+goodbye: Hoşça kalın!
+hello: Merhaba.
+hello-world: Merhaba dünya.
+hours: saat
+if-correct-press: Bu doğruysa, basın...
+im-sorry: Üzgünüm.
+incoming-call-1-accept-2-decline: Gelen çağrı. Kabul etmek için 1, reddetmek için 2 tuşuna basın.
+incoming-call-no-longer-avail: Gelen çağrı artık kullanılabilir değil.
+info-about-last-call: Son aramanız hakkında bilgi.
+intercom: dahili anons
 invalid: Üzgünüm, bu geçerli bir dahili numara değil. Lütfen tekrar deneyin.
-letters/aa:
-letters/ww:
+is: dır
+is-in-use: Kullanımda.
+is-set-to: Şuna ayarlandı.
+letters/a: a
+letters/aa: 
+letters/ascii123: sol süslü parantez
+letters/ascii124: dikey çizgi
+letters/ascii125: sağ süslü parantez
+letters/ascii126: tilde
+letters/ascii34: tırnak işareti
+letters/ascii36: dolar işareti
+letters/ascii37: yüzde işareti
+letters/ascii38: ve işareti
+letters/ascii39: kesme işareti
+letters/ascii40: sol parantez
+letters/ascii41: sağ parantez
+letters/ascii42: yıldız
+letters/ascii44: virgül
+letters/ascii58: iki nokta
+letters/ascii59: noktalı virgül
+letters/ascii60: küçüktür
+letters/ascii62: büyüktür
+letters/ascii63: soru işareti
+letters/ascii91: sol köşeli parantez
+letters/ascii92: ters bölü
+letters/ascii93: sağ köşeli parantez
+letters/ascii94: şapka işareti
+letters/ascii95: alt çizgi
+letters/ascii96: ters tırnak
+letters/asterisk: yıldız
+letters/at: et işareti
+letters/b: be
+letters/c: ce
+letters/d: de
+letters/dash: tire
+letters/dollar: dolar
+letters/dollars: dolar
+letters/dot: nokta
+letters/e: e
+letters/equals: eşittir
+letters/exclaimation-point: ünlem işareti
+letters/f: fe
+letters/g: ge
+letters/h: he
+letters/i: i
+letters/j: je
+letters/k: ke
+letters/l: le
+letters/m: me
+letters/n: ne
+letters/o: o
+letters/p: pe
+letters/plus: artı
+letters/q: kü
+letters/r: re
+letters/s: se
+letters/slash: bölü
+letters/space: boşluk
+letters/t: te
+letters/u: u
+letters/v: ve
+letters/w: çift ve
+letters/ww: 
+letters/x: iks
+letters/y: ye
+letters/z: ze
+letters/zed: zed
+line-busy-transfer-menu: Hat meşgul. Aktarma menüsüne yönlendiriliyorsunuz.
+location: Konum.
+lowercase: küçük harf
 minutes: dakika
+no-valid-responce-pls-try-again: Geçerli bir yanıt alınamadı. Lütfen tekrar deneyin.
+no-valid-responce-transfering: Geçerli bir yanıt alınamadı. Aktarılıyorsunuz.
+num-was-successfully: Numara başarıyla...
 number: Numara.
 number-not-answering: Numara cevap vermiyor.
 one-moment-please: Lütfen bir saniye bekleyin.
+pbdirectory-first-three-letters-entry: Lütfen kişinin adının ilk üç harfini girin.
+pbdirectory-if-correct-press: Bu doğruysa, basın...
+pbdirectory-if-incorrect-press: Bu yanlışsa, basın...
+pbdirectory-welcome-to-phonebook: Telefon rehberine hoş geldiniz.
 pbx-invalid: Üzgünüm, bu geçerli bir dahili numara değil. Lütfen tekrar deneyin.
 pbx-invalidpark: Üzgünüm, bu dahili numarada park edilmiş bir çağrı yok. Lütfen tekrar deneyin.
 pbx-parkingfailed: Park etme işlemi başarısız oldu.
 pbx-transfer: Aktarma.
-phone:
-phonetic/k_p2:
+phone: 
+phonetic/9_p: dokuz
+phonetic/a_p: alfa
+phonetic/at: et
+phonetic/b_p: bravo
+phonetic/c_p: çarli
+phonetic/cc_p: çarli
+phonetic/d_p: delta
+phonetic/e_p: eko
+phonetic/f_p: fokstrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/ii_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/k_p2: 
+phonetic/l_p: lima
+phonetic/m_p: mayk
+phonetic/n_p: november
+phonetic/o_p: oskar
+phonetic/oo_p: oskar
+phonetic/p_p: papa
+phonetic/q_p: kibek
+phonetic/r_p: romeo
+phonetic/s_p: siyera
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/uu_p: uniform
+phonetic/v_p: viktor
+phonetic/w_p: viski
+phonetic/x_p: iksrey
+phonetic/y_p: yenki
+phonetic/z_p: zulu
+please-enter-your-extension-then-press-pound: Lütfen dahili numaranızı girin ve kare tuşuna basın.
 please-try-again: Lütfen tekrar deneyin.
+please-try-call-later: Lütfen daha sonra tekrar arayın.
 pls-hold-while-try: Lütfen sizi bağlamaya çalışırken hatta kalın.
 pls-try-call-later: Lütfen daha sonra tekrar arayın.
+plus: artı
+pm-invalid-option: Bu seçenek geçersiz. Lütfen tekrar deneyin.
+pound: kare
+press-1: 1 tuşuna basın.
+press-2: 2 tuşuna basın.
+press-3: 3 tuşuna basın.
+press-star: yıldız tuşuna basın.
+priv-callee-options: Şu seçenekleriniz var: Bu arayanın size doğrudan ulaşmasını istiyorsanız 1, sesli mesaja yönlendirmek için 2, eziyet menülerine yönlendirmek için 3, kibar bir aramayın menüsüne yönlendirmek için 4, gelecekte doğrudan ulaşmasına izin verip ama bu sefer sesli mesaja yönlendirmek için 5 tuşuna basın.
+priv-callpending: Bekleyen bir arayan var, kendini şöyle tanıtıyor:
+priv-introsaved: Teşekkür ederim. Sizi karşı tarafla bağlamaya çalışırken lütfen hatta kalın!
+priv-recordintro: Sinyal sesinden sonra lütfen adınızı söyleyin.
 privacy-incorrect: Üzgünüm, bu numara geçerli değil.
+privacy-prompt: Lütfen alan koduyla başlayarak telefon numaranızı girin.
+privacy-thankyou: Teşekkür ederiz.
+privacy-to-blacklist-last-caller: Son arayan...
+privacy-unident: Aradığınız kişi tanımlanmamış aramaları kabul etmiyor.
 queue-callswaiting: bir temsilciyle görüşmek için bekleniyor
 queue-holdtime: Tahmini bekleme süresi şu anda
 queue-less-than: daha az
@@ -244,31 +467,189 @@ queue-thankyou: Sabrınız için teşekkür ederiz.
 queue-thereare: Şu anda sıradaki çağrı numaranız
 queue-youarenext: Çağrınız şu anda sıranın başında ve ilk müsait temsilci tarafından yanıtlanacak.
 removed: Kaldırıldı.
+screen-callee-options: Şu seçenekleriniz var: Gelen çağrıya hemen bağlanmak için 1, sesli mesaja yönlendirmek için 2, eziyet menülerine yönlendirmek için 3, kibar bir aramayın menüsüne yönlendirmek için 4 tuşuna basın.
 seconds: saniye
-silence/1:
-silence/10:
-silence/2:
-silence/3:
-silence/4:
-silence/5:
-silence/6:
-silence/7:
-silence/8:
-silence/9:
+silence/1: 
+silence/10: 
+silence/2: 
+silence/3: 
+silence/4: 
+silence/5: 
+silence/6: 
+silence/7: 
+silence/8: 
+silence/9: 
 simul-call-limit-reached: Eşzamanlı çağrı sınırına ulaşıldı.
+slash: bölü
+sng_mcu: konferans köprüsü
+sng_mcu_chime: konferans bildirim sesi
+something-terribly-wrong: Bir şeyler korkunç şekilde yanlış gitti!
+sorry-youre-having-problems: Sorun yaşadığınız için üzgünüz.
+space: boşluk
+speed-dial: Hızlı arama.
+speed-dial-empty: Eriştiğiniz hızlı arama girişi boş.
+speed-enterlocation: Lütfen hızlı arama konumunu girin.
+speed-enternumber: Lütfen numarayı girin.
+spy-agent: Operatör
+spy-console: Konsol
+spy-dahdi: DAHDI
+spy-h323: H 3 2 3
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Yerel
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobil
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radyo
+spy-zap: Zap
 ss-noservice: Aradığınız numara hizmet dışı. Lütfen numarayı kontrol edip tekrar deneyin.
 telephone-number: Telefon numarası.
+time: Saat.
 to-call-this-number: Bu numarayı aramak için.
+to-change: Değiştirmek için.
+to-enter-a-diff: Farklı bir şey girmek için.
 to-extension: Dahili numaraya.
 to-listen-to-it: Dinlemek için.
 to-rerecord-it: Yeniden kaydetmek için.
 transfer: Lütfen bu dahili numarayı denerken hatta kalın.
 tt-allbusy: Tüm temsilcilerimiz şu anda diğer aramalarla ilgileniyor. Lütfen hatta kalın, çağrınız geliş sırasına göre yanıtlanacak.
+tt-somethingwrong: Bir şeyler korkunç şekilde yanlış gitti.
 tt-weasels: Telefon sistemimiz arıza yaptı.
+unidentified-no-callback: Tanımlanmamış veya gizli, bu nedenle geri aranamaz.
+uppercase: büyük harf
+vm-Cust1: klasör 5
+vm-Cust2: klasör 6
+vm-Cust3: klasör 7
+vm-Cust4: klasör 8
+vm-Cust5: klasör 9
+vm-Family: aile
+vm-Friends: arkadaşlar
+vm-INBOX: yeni
+vm-Old: eski
+vm-Urgent: acil
+vm-Work: iş
+vm-advopts: Gelişmiş seçenekler için 3 tuşuna basın.
+vm-and: ve
+vm-calldiffnum: Farklı bir numara girmek için 2 tuşuna basın.
+vm-changeto: Hangi klasöre değiştirmek istersiniz?
+vm-delete: Bu mesajı silmek için 7 tuşuna basın.
+vm-deleted: Mesaj silindi.
+vm-dialout: Lütfen çağrınızı bağlarken hatta kalın.
+vm-duration: Bu mesajın süresi...
 vm-enter-num-to-call: lütfen aramak istediğiniz numarayı girin
+vm-extension: dahili numara
+vm-first: ilk
+vm-for: için
+vm-forward: Dahili numara girmek için 1, rehberi kullanmak için 2 tuşuna basın.
+vm-forward-multiple: Bu mesajı göndermek için 1, başka bir alıcı eklemek için 2 tuşuna basın.
+vm-forwardoptions: Mesajın başına bir not eklemek için 1, mesajı not eklemeden iletmek için 2 tuşuna basın.
+vm-from: kimden
+vm-from-extension: dahili numaradan gelen mesaj
+vm-from-phonenumber: telefon numarasından gelen mesaj
 vm-goodbye: Hoşça kalın.
+vm-helpexit: Yardım için yıldız, çıkmak için kare tuşuna basın.
+vm-incorrect: Giriş hatalı.
+vm-incorrect-mailbox: Giriş hatalı. Posta kutusu?
+vm-instructions: Mesajlarınıza bakmak için şimdi 1 tuşuna basın. Sesli mesajdan istediğiniz zaman kare tuşuna basarak çıkabilirsiniz.
 vm-intro: Lütfen sinyal sesinden sonra mesajınızı bırakın. Bitirdiğinizde telefonu kapatın veya kare tuşuna basın.
+vm-invalid-password: Bu şifre bu posta kutusunun minimum gereksinimlerini karşılamıyor. Lütfen tekrar deneyin.
+vm-invalidpassword: Bu geçerli bir şifre değil. Lütfen tekrar deneyin.
+vm-isonphone: telefonda
+vm-isunavail: müsait değil
+vm-last: son
+vm-leavemsg: Mesaj bırakmak için 5 tuşuna basın.
+vm-login: Sesli mesaj. Posta kutusu?
+vm-mailboxfull: Üzgünüm, kullanıcının posta kutusu daha fazla mesaj kabul edemiyor.
+vm-marked-nonurgent: Acil durumu kaldırıldı.
+vm-marked-urgent: Mesaj acil olarak işaretlendi.
+vm-message: mesaj
+vm-messages: mesaj
+vm-minutes: dakika
+vm-mismatch: Girdiğiniz şifreler uyuşmadı. Lütfen tekrar deneyin.
+vm-msgforwarded: Mesajınız başarıyla iletildi.
+vm-msginstruct: Sonraki mesajı dinlemek için 6, bu mesajı tekrarlamak için 5, önceki mesajı dinlemek için 4, bu mesajı silmek veya geri yüklemek için sıfır, sesli mesajdan çıkmak için kare tuşuna basın.
+vm-msgsaved: Mesajınız kaydedildi.
+vm-newpassword: Lütfen yeni şifrenizi girin ve kare tuşuna basın.
+vm-newuser: Sesli mesaja hoş geldiniz. Önce sizi kısa bir kurulum sürecinde yönlendireceğim.
+vm-next: Sonraki mesajı oynatmak için 6 tuşuna basın.
+vm-no: hayır
+vm-nobodyavail: Şu anda çağrınızı alabilecek kimse yok.
+vm-nobox: Bu mesaja yanıt veremezsiniz çünkü gönderenin posta kutusu yok.
+vm-nomore: Başka mesaj yok.
+vm-nonumber: Üzgünüm, bu mesajı kimin gönderdiğini bilmiyorum.
+vm-num-i-have: Sahip olduğum numara
+vm-onefor: 1 tuşuna basın
+vm-onefor-full: Şunu dinlemek için bir tuşuna basın...
+vm-options: Müsait olmadığınızda mesajınızı kaydetmek için 1, meşgul mesajınızı kaydetmek için 2, adınızı kaydetmek için 3, geçici karşılamanızı kaydetmek için 4, şifrenizi değiştirmek için 5, ana menüye dönmek için yıldız tuşuna basın.
+vm-opts: Klasörleri değiştirmek için 2, gelişmiş seçenekler için 3, posta kutusu seçenekleri için sıfır tuşuna basın.
+vm-opts-full: Diğer klasörlerde kayıtlı mesajlara erişmek için 2 tuşuna basın. Başka bir posta kutusu için mesaj kaydetmek için 3 tuşuna basın. Karşılama ve şifre yönetimi için sıfır tuşuna basın.
+vm-passchanged: Şifreniz değiştirildi.
+vm-password: şifre
+vm-pls-try-again: Lütfen tekrar deneyin.
+vm-press: basın
+vm-prev: Önceki mesaj için 4 tuşuna basın.
+vm-reachoper: Operatöre ulaşmak için sıfır tuşuna basın.
+vm-rec-busy: Sinyal sesinden sonra meşgul mesajınızı söyleyin ve kare tuşuna basın.
+vm-rec-name: Sinyal sesinden sonra adınızı söyleyin ve kare tuşuna basın.
+vm-rec-temp: Sinyal sesinden sonra geçici mesajınızı söyleyin ve kare tuşuna basın.
+vm-rec-unv: Sinyal sesinden sonra müsait olmama mesajınızı söyleyin ve kare tuşuna basın.
 vm-received: alındı
+vm-record-prepend: Sinyal sesinden sonra iletilen mesaja bir giriş kaydedin. Bitirdiğinizde kare tuşuna basın.
+vm-reenterpassword: Lütfen şifrenizi tekrar girin ve kare tuşuna basın.
+vm-repeat: Mevcut mesajı tekrarlamak için 5 tuşuna basın.
+vm-review: Bu kaydı kabul etmek için 1, dinlemek için 2, mesajınızı yeniden kaydetmek için 3 tuşuna basın.
+vm-review-nonurgent: Bu mesajın acil durumunu kaldırmak için 4 tuşuna basın.
+vm-review-urgent: Bu mesajı acil olarak işaretlemek için 4 tuşuna basın.
+vm-saved: kaydedildi
+vm-savedto: kaydedildi
+vm-savefolder: Mesajı hangi klasöre kaydedeyim?
+vm-savemessage: Bu mesajı kaydetmek için 9 tuşuna basın.
+vm-saveoper: Bu kaydı kabul etmek için 1 tuşuna basın, aksi takdirde lütfen hatta kalmaya devam edin.
+vm-sorry: Üzgünüm, yanıtınızı anlayamadım.
+vm-star-cancel: İptal etmek için yıldız tuşuna basın.
+vm-starmain: Ana menüye dönmek için yıldız tuşuna basın.
+vm-tempgreetactive: Geçici karşılamanız şu anda etkin.
+vm-tempgreeting: Geçici karşılamanızı kaydetmek için 1 tuşuna basın.
+vm-tempgreeting2: Geçici karşılamanızı kaydetmek için 1, geçici karşılamanızı silmek için 2 tuşuna basın.
+vm-tempremoved: Geçici karşılamanız kaldırıldı.
+vm-then-pound: ardından kare tuşuna basın.
+vm-theperson: Şu dahili numaradaki kişi.
+vm-tmpexists: Standart karşılamalarınızı geçersiz kılan bir geçici karşılama var.
+vm-tocallback: Bu mesajı gönderen kişiyi aramak için 2 tuşuna basın.
+vm-tocallnum: Bu numarayı aramak için 1 tuşuna basın.
+vm-tocancel: veya iptal etmek için kare tuşuna basın.
+vm-tocancelmsg: Bu mesajı iptal etmek için yıldız tuşuna basın.
+vm-toenternumber: Numara girmek için 1 tuşuna basın.
+vm-toforward: Mesajı başka bir kullanıcıya iletmek için 8 tuşuna basın.
+vm-tohearenv: Mesaj zarfını dinlemek için 3 tuşuna basın.
+vm-tomakecall: Giden çağrı yapmak için 4 tuşuna basın.
+vm-tooshort: Mesajınız çok kısa.
+vm-toreply: Yanıt göndermek için 1 tuşuna basın.
+vm-torerecord: Mesajınızı yeniden kaydetmek için 3 tuşuna basın.
+vm-undelete: Bu mesajı geri yüklemek için 7 tuşuna basın.
+vm-undeleted: Mesaj geri yüklendi.
+vm-unknown-caller: bilinmeyen bir arayandan
+vm-whichbox: Mesaj bırakmak için lütfen bir posta kutusu numarası girin.
+vm-youhave: sizin
+vmnotify-followed-by-pound: ardından kare tuşuna basın.
+vmnotify-goodbye: Hoşça kalın.
+vmnotify-greeting: Merhaba, yeni bir sesli mesajınız var.
+vmnotify-instructions: Mesajınızı dinlemek için 1, daha sonra dinlemek için 2 tuşuna basın.
+vmnotify-instructions2: Şifrenizi girin ve kare tuşuna basın.
+vmnotify-recname: Bu sizin sesli mesaj kutunuzdur.
+vmnotify-thankyou: Teşekkür ederiz.
+vmnotify-too-late: Çok geç, mesaja artık erişilemiyor.
+vqplus-accept: Çağrıyı kabul etmek için bir tuşuna basın.
+vqplus-callback: Geri arama talebi alındı.
+vqplus-confirmed: Onaylandı.
+vqplus-enter-name: Lütfen adınızı girin.
+vqplus-enter-number: Lütfen numaranızı girin.
 with: Şu kişiyle.
 you-entered: Şunu girdiniz.
+you-will-be-transfered-menu: Menüye aktarılıyorsunuz.
 your: Sizin.

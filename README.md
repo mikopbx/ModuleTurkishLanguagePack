@@ -4,7 +4,7 @@ Complete Turkish language pack for MikoPBX including UI translations and TTS-gen
 
 ## What's Included
 
-- **Voice Prompts**: 251 Turkish voice prompts (22050 Hz, mono, 16-bit PCM WAV)
+- **Voice Prompts**: 632 Turkish voice prompts (22050 Hz, mono, 16-bit PCM WAV)
 - **UI Translations**: Complete Turkish translation of MikoPBX admin interface
 - **Text Mapping**: `Sounds/core-sounds-tr-tr.txt` — full list of prompts with text
 
